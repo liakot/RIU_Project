@@ -1,0 +1,11 @@
+http://www.vogella.com/tutorials/EclipseGit/article.html
+Egit-http://download.eclipse.org/egit/updates
+
+Window>Show view>Other>Git>Git_Repogitory
+Window>Show view>Other>Team>History
+Window>Customize Perspective>Command Groups Availability>Checked mark Git
+
+How to clone and start working with project
+(https://www.youtube.com/watch?v=ptK9-CNms98)
+Creating new project and sharing with team members
+https://www.youtube.com/watch?v=r5C6yXNaSGo
